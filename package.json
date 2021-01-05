@@ -62,7 +62,7 @@
     "@types/socket.io": "^2.1.2",
     "@types/supertest": "^2.0.8",
     "@types/uuid": "^3.4.5",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bcrypt": "^3.0.6",
     "class-transformer": "^0.2.3",
     "class-validator": "^0.9.1",
